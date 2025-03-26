@@ -5,3 +5,10 @@ langchain-openai
 langchain_chroma 
 langchain-text-splitters 
 langchain_community
+
+langgraph
+langchainhub 
+chromadb 
+langchain  
+tavily-python 
+
